@@ -17,3 +17,5 @@ print(yemekler)
 print(len(yemekler))
 print(type(yemekler))
 print(yemekler[1:])
+
+#Şimdi sıra kontrol/karar yapılarında
